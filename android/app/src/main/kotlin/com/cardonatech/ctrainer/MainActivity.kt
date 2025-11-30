@@ -1,4 +1,4 @@
-package com.example.ctrainer
+package com.cardonatech.ctrainer
 
 import io.flutter.embedding.android.FlutterActivity
 
